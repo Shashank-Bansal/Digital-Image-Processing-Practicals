@@ -1,0 +1,1 @@
+MATLAB program to perform Thresholding and Magnification of Images.

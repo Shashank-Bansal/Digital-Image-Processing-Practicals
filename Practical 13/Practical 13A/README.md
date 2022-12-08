@@ -1,0 +1,1 @@
+MATLAB program to implement image dithering techniques.

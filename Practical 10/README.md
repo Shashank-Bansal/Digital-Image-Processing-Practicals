@@ -1,0 +1,1 @@
+MATLAB program to apply morphological operations.

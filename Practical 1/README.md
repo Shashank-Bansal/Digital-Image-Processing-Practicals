@@ -1,0 +1,1 @@
+MATLAB Program for conversion from RGB to Grayscale and Binary formats.

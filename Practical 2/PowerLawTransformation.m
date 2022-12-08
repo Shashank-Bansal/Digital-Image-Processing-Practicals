@@ -1,0 +1,10 @@
+itemp = imread('image.jpg');
+r = double (itemp)/255;
+c = 1;
+gamma = 0.6;
+s = c*(r).^gamma;
+gamma = 1.5;
+v=c* (r).^gamma;
+subplot (1,3,1), imshow(uint8 (itemp)), title ('Original Image');
+subplot (1,3,2), imshow(s), title ('Gamma = 0.6');
+subplot (1,3,3), imshow(v), title ('Gamma = 1.5');
